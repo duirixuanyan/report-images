@@ -4,7 +4,7 @@
 
 C.W. Labrie, M. Raaphorst, A. de Gelder, M. Warmenhoven, N. Garcia  
 
-![](images/293b2975f243db88209da8b0be184b1aad1bfde73eeceb33928004cf4d8c083e.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/293b2975f243db88209da8b0be184b1aad1bfde73eeceb33928004cf4d8c083e.jpg?raw=true)  
 
 # 摘要  
 
@@ -239,24 +239,24 @@ wur.nl/glastuinbouw
 
 值得注意的是，3月底（第12周）公司3的第二次下降是由于灰霉病的高峰，花瓶寿命显著短于两周前和之后的测试，并且显著短于公司1和2的测试。 对于公司1和2，也观察到小幅但显著的花瓶寿命下降，但仅在随后的测试中，即4月初（第14周），而此时花瓣的萎蔫，通常伴随花瓣的棕色或紫色边缘，是报废的主要原因。  
 
-![](images/789a466f5abb29123e999ffcda103274d25943a7242d74485fed028e262fc3e0.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/789a466f5abb29123e999ffcda103274d25943a7242d74485fed028e262fc3e0.jpg?raw=true)  
 图1  在试验期间每家公司按采摘日期计算的花瓶寿命（天数）。 2023年2月19日，测试玫瑰的花蕾在采摘后被公司4浸泡以防止灰霉病。  
 
-![](images/cfc5db77857cb0ed46b12fb28003930e47526486f7b6713d03cc66772316c342.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/cfc5db77857cb0ed46b12fb28003930e47526486f7b6713d03cc66772316c342.jpg?raw=true)  
 图2  花瓣和萼片与花底的连接处的损害，进一步扩散到花瓣的腐烂。  
 
 # 3.2.2 花蕾颜色  
 
 对于品种1，种植者用评分 $(1~{\sf t}/{\sf m}~10,$ 来评估他们玫瑰的花蕾颜色，其中10表示红色品种的完美颜色，鲜红色。较暗的花蕾会导致较低的评分。在这三家公司中，观察到12月的花蕾颜色稍微较差且波动，从1月开始变得更好且更稳定（图3）。从第50周开始，使用SON-T照明的时间也增加，从而提供了更高的PAR总量。公司1表示，从第47周开始，由于天气变冷，花蕾的形状和颜色变得不那么美观。在第4.2章中将深入探讨公司之间与环境因素相关的差异。  
 
-![](images/0ae308391b16b60585ee11fd4ceed4c126bf80004ffd1c2bc653120c536dfa24.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/0ae308391b16b60585ee11fd4ceed4c126bf80004ffd1c2bc653120c536dfa24.jpg?raw=true)  
 图3  红色品种的花蕾颜色变化，按相关种植者的评估，平均值为公司1、2和3。  
 
 # 3.2.3 花青素含量  
 
 作为指示，1月23日测量了花青素含量（图4）。公司2当时相对于公司1和3有较多的紫色叶片和较暗的花蕾。绿色和紫色叶片是分开测量的。紫色叶片的花青素含量几乎是绿色叶片的两倍。此外，公司2的紫色叶片的花青素含量高于其他公司的（较少紫色的）叶片。从2月到3月，比较了各公司的平均含量（未单独计算绿色和紫色叶片），但未能显示出公司之间的差异。对花和叶中的营养物质及花中的糖进行的一次性分析显示，公司2（紫色较多）的花中相对含有更多的氮和更少的糖（葡萄糖和果糖），而在叶片中则含有更少的干物质和更多的硼和钙，与公司1和3相比。公司2较暗的花朵中糖的较低含量与糖积累的假设不符，尽管对于叶片和花朵作为源和汇可能是不同的。成熟度也可能影响，生长中的花蕾颜色较暗。样本数量太少，无法得出结论。种植者的经验表明，紫色叶片和暗花蕾并不总是同时出现。在第4.2章中将深入探讨导致花蕾颜色变暗的可能原因。  
 
-![](images/4ed190afbc9e1b4870a06d90f3ce57b049913056e5e7a796d1a6380e3c57ffd0.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/4ed190afbc9e1b4870a06d90f3ce57b049913056e5e7a796d1a6380e3c57ffd0.jpg?raw=true)  
 
 图4  2023年1月23日用MultiPigmentMeter 100进行的叶片花青素测量。  
 
@@ -268,7 +268,7 @@ Red Naomi!的不良花蕾形状是指内层花瓣未能很好地向外展开，�
 
 值得注意的是，种植者评估中的时间趋势（图5）并未在花瓶寿命测试中反映出来。可能在某些花朵中，变形在采摘阶段就已可见，因此这些花朵已被筛选掉，从而不再成为常规分拣的玫瑰的花瓶寿命测试的一部分。  
 
-![](images/321d922cda0749a97bf6ea2b758fb33a1065a009d280bbed700d8cb2479bd52e.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/321d922cda0749a97bf6ea2b758fb33a1065a009d280bbed700d8cb2479bd52e.jpg?raw=true)  
 图5  红色品种的花蕾形状变化，按相关种植者的评估，平均值为公司1、2和3。  
 
 # 3.2.5 花蕾高度  
@@ -310,7 +310,7 @@ Red Naomi!的不良花蕾形状是指内层花瓣未能很好地向外展开，�
 • 公司4大约每4天进行24小时的照明。公司1-3最多照明20小时。  
 • 在整个日间，阳光仅占总热量的一小部分。  
 
-![](images/bfe15abd3010c77cbe2b5bd72fab206226bde8ff5da4ca014a68a3c550b9e6bc.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/bfe15abd3010c77cbe2b5bd72fab206226bde8ff5da4ca014a68a3c550b9e6bc.jpg?raw=true)  
 图6  12月和1月（第48周至第5周）期间的热源的循环平均 $(W/m^{2},$ )。  
 
 # 3.4.2 温度、PAR和VD  
@@ -326,12 +326,12 @@ PAR总量（光活性辐射，单位为 $\scriptstyle{\mathsf{m o l}}/{\mathsf{m
 
 <html><body><table><tr><td rowspan="2">温度(°C)</td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>周</td><td>w40w41w42w43w44w45w46w47w48w49w50w51w52w1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>w2</td><td>w3</td><td>w4</td><td>w5</td><td>w6 w7</td><td>w8</td><td>w9</td><td>w10w11w12w13w14w15w16w17w18w19w20</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>公司1</td><td>19.4 19.6</td><td>19.4</td><td>19.7</td><td>19.6 19.7</td><td>19.3</td><td>19.8</td><td>19.4 19.6</td><td>20.0</td><td>19.2</td><td>19.4</td><td>19.6</td><td></td><td></td><td></td><td>19.7</td><td>19.5 19.5</td><td>19.0</td><td>19.3</td><td>19.2 19.5</td><td>18.9</td><td>19.5</td><td>19.3</td><td>19.9</td><td></td><td></td></tr><tr><td>公司2</td><td>17.5 18.7</td><td>19.3</td><td>20.4</td><td>19.6 19.3</td><td>18.8</td><td>19.1</td><td>18.1 18.0</td><td>18.8</td><td>20.1</td><td>19.5 20.0</td><td></td><td>19.8 19.7</td><td>20.0</td><td>20.1 19.9</td><td></td><td>19.6 19.6</td><td>19.7</td><td>19.9</td><td>19.8</td><td>20.2</td><td></td><td>20.0</td><td></td><td>20.8 20.4</td><td>20.7</td></tr><tr><td>公司3</td><td>18.3 18.9</td><td>19.3</td><td>20.1</td><td>19.1 18.6</td><td>17.3</td><td>18.5</td><td>17.4 18.6</td><td>19.8</td><td></td><td>19.7</td><td>19.3</td><td></td><td>20.3</td><td>21.1 20.3</td><td>19.5</td><td></td><td></td><td></td><td>20.2</td><td></td><td>20.2</td><td></td><td>20.5 20.7</td><td>20.5</td><td>20.8</td></tr><tr><td>公司4</td><td>18.5 19.0</td><td>18.8</td><td>20.0 18.9</td><td>19.8</td><td>19.9</td><td>20.4</td><td>19.6 19.0</td><td>19.4</td><td>18.5</td><td>18.2 17.8</td><td>17.4</td><td>19.6</td><td>20.1</td><td>21.0 20.1</td><td>18.5</td><td>19.6</td><td>19.4 19.0</td><td>19.2</td><td>18.0 18.9</td><td>18.8</td><td>18.7</td><td>18.9</td><td>19.9</td><td>20.9 20.0</td><td>20.5</td></tr><tr><td>公司5</td><td>16.2 16.7</td><td>16.7</td><td>17.6 14.5</td><td>13.8</td><td>11.3</td><td>11.6</td><td>7.9 6.7</td><td>6.8</td><td>18.6</td><td>17.7 18.6</td><td>17.8</td><td>17.8</td><td>18.5</td><td>18.7 19.3</td><td>19.2</td><td>19.2</td><td>20.1 19.2</td><td>19.3</td><td>19.0 19.3</td><td>19.1</td><td>19.0</td><td>19.4</td><td>20.1</td><td>20.0 19.8</td><td>20.0</td></tr><tr><td>平均</td><td>18.0 18.6 18.7</td><td></td><td>19.6</td><td>18.318.2</td><td>17.317.9</td><td></td><td></td><td>16.5 16.417.0 17.1 17.0 17.0 16.517.2</td><td>9.2</td><td>9.6</td><td>9.6 8.6</td><td>9.1</td><td>10.9</td><td>12.4 13.0 18.018.618.5</td><td>14.8</td><td>14.6</td><td>15.8 15.9 18.318.518.918.6</td><td>18.3 19.218.919.319.119.119.219.7</td><td>18.4 18.4</td><td>18.4</td><td>18.4</td><td>18.5</td><td>17.9 18.8</td><td>18.5 20.219.820.3</td><td>19.8</td></tr><tr><td>PAR(mol/m².week)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>周</td><td>w40 w41w42w43w44w45w46w47w48w49w50w51w52w1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>w2</td><td>w3</td><td>w4</td><td>w5</td><td>w7</td><td>w8</td><td>6M</td><td>w10w11w12</td><td></td><td></td><td></td><td></td><td></td><td>2w13w14w15w16w17w18w19w20</td><td></td></tr><tr><td>公司1</td><td>168 145</td><td>146</td><td>144</td><td>142 137</td><td>109</td><td>110</td><td>89 95</td><td>125</td><td>137</td><td>157</td><td>156 149</td><td>153</td><td>157</td><td>w6 160</td><td>166</td><td>174</td><td>166 164</td><td>163</td><td>181 165</td><td>153</td><td></td><td>169</td><td></td><td>152</td><td></td></tr><tr><td>公司2</td><td>104 101</td><td>126</td><td>131</td><td>116 126</td><td>119</td><td>113</td><td>91 96</td><td>120</td><td>144</td><td>144</td><td>166 154</td><td>155</td><td>171</td><td>154 180 180</td><td>167</td><td>178</td><td>178 171</td><td>169</td><td>170 155</td><td>148</td><td>166 152</td><td>156</td><td>172 163 166</td><td>168 176</td><td>186</td></tr><tr><td>公司3</td><td>115 105</td><td>115</td><td>116 114</td><td>129</td><td>102</td><td>103</td><td>92 101</td><td>113</td><td>110</td><td>126</td><td>135 131</td><td>165</td><td>177</td><td>183 150</td><td>137</td><td>147</td><td>154 157</td><td>131</td><td>129 139</td><td>138</td><td>142</td><td>154</td><td>182 161</td><td>162</td><td>208 183</td></tr><tr><td>公司4</td><td>109 100</td><td>90</td><td>96 88</td><td>115</td><td>157</td><td>131</td><td>118 122</td><td>123</td><td>127</td><td>152 135</td><td>135</td><td>129</td><td>145</td><td>155 156</td><td>156</td><td>171 171</td><td>177</td><td>171</td><td>197 201</td><td>201</td><td>193</td><td>184</td><td>210 180</td><td>188</td><td>197</td></tr><tr><td>平均</td><td>67 51</td><td>53</td><td>51</td><td>35 41</td><td>22</td><td>24</td><td>14</td><td>15 13</td><td>12</td><td>11</td><td>17 14</td><td>19</td><td>23</td><td>30 39</td><td>43</td><td>62</td><td>85 83</td><td>97</td><td>129 136</td><td>126</td><td>147</td><td>145</td><td>159</td><td>137 151</td><td>183</td></tr><tr><td>113</td><td>100</td><td>106</td><td>107</td><td>66</td><td>110 102</td><td>96</td><td>81</td><td>86 99</td><td>106</td><td>118</td><td>122 117</td><td>124</td><td>135</td><td>142 136</td><td>134</td><td>146</td><td>151 150</td><td>146</td><td>161 159</td><td>153</td><td>160</td><td>162</td><td>177</td><td>162 166</td><td>191</td></tr><tr><td>平均</td><td>外部温度(°C)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>阳光(w/m²)</td><td>13.1 13.6 14.1 15.511.810.1 6.5</td><td></td><td></td><td></td><td></td><td>8.3</td><td>4.0</td><td>1.2 2.1</td><td>8.4</td><td>9.7</td><td>9.6 7.6</td><td>2.9</td><td>4.8</td><td>6.9 5.8</td><td>8.4</td><td>4.9</td><td>4.1 5.1</td><td>9.5</td></table></body></html>  
 
-![](images/85ecc622bf0e85b24a87a5d2f9c704172ff40a3d82cb153d746ce6f954508665.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/85ecc622bf0e85b24a87a5d2f9c704172ff40a3d82cb153d746ce6f954508665.jpg?raw=true)  
 图7  日间温度（左）和每平方米PAR总量（右）的变化，来自5家公司。  
 
 温度与PAR的比率（RTR）在第48周到第5周的五家公司中显示在图8中。值得注意的是，公司5显示出非常陡峭的线。这是由于几乎没有加热，且日间温度直接受到辐射量的影响。其他公司加热更多，因此线条较平坦。 ${\mathsf{R}}^{2}$表示回归线的代表性。在公司2和3中相对较高（ $61\%$ 和 $30\%$ ），但在公司4和5中非常低（ $11\%$ 和 $2\%$ ）。这表明公司2和3的日间温度更依赖于PAR的数量，而公司4和5则不然。  
 
-![](images/6e937ed456e5900728c367a3d142168fd51e9de97a4f0d527d5483e1a8d3398f.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/6e937ed456e5900728c367a3d142168fd51e9de97a4f0d527d5483e1a8d3398f.jpg?raw=true)  
 图8  日间温度 $(^{\circ}C)$ 与PAR数量 $(m o l/m^{2}.d a g)$ 的比率，来自第48周到第5周的5家公司。  
 
 # 3.4.3 屏幕使用、窗户开度和湿度  
@@ -344,26 +344,26 @@ PAR总量（光活性辐射，单位为 $\scriptstyle{\mathsf{m o l}}/{\mathsf{m
 
 由于温室温度与外部温度之间存在较大差异（即较大的δT），因此更容易排出湿气，因此用颜色表示。风速可以通过标记的直径读取：风越大，圆圈越大。屏幕位置对VD的影响可以通过相同颜色的点在较高屏幕位置时VD的轻微下降来观察到。这在95%到 $100\%$ 的屏幕位置之间尤其明显。在 $80\%$ 到 $95\%$ 之间，这种影响则不太明显。这可能是由于屏幕调节的结果：在较低的湿度缺失下，拉开更大的屏幕缝隙。有时，较大的屏幕缝隙会导致VD增加，而有时，较低的VD会导致拉开更大的屏幕缝隙。在这种情况下，原因和结果并不总是明确。  
 
-![](images/58fb1cafd943525153722fd17a0183407fae3483d7218803197ef4135126c163.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/58fb1cafd943525153722fd17a0183407fae3483d7218803197ef4135126c163.jpg?raw=true)  
 图9  在四家公司中，VD与照明夜间的屏幕位置的关系，时间为10月1日至5月1日。颜色表示温室温度与外部温度之间的差异（δT）  
 
 # 3.4.3.2 在照明夜间的窗户开度和VD  
 
 窗户开度对VD的影响更为明显（图10）：窗户开度越高，VD越高。各公司之间的差异很大：公司2在相同的窗户开度下VD明显较低。这可能与测量箱的可靠性或位置有关。公司4的窗户开度高于其他公司。然而，趋势保持不变：窗户开度对VD的影响大于屏幕开度。然而，这并不意味着小的屏幕缝隙可以完全通过高窗户开度来补偿。空气交换及其湿气排出是由阻力最大的屏障决定的。  
 
-![](images/9eec36029751040c06434b42b449ff0c279dfcec35820382a16b7a95a86ae688.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/9eec36029751040c06434b42b449ff0c279dfcec35820382a16b7a95a86ae688.jpg?raw=true)  
 图10  在四家公司中，VD与照明夜间的窗户开度的关系，时间为10月1日至5月1日。颜色表示温室温度与外部温度之间的差异（δT）  
 
 # 3.4.3.3 推荐的屏幕缝隙与窗户缝隙的比例  
 
 假设在温室和外部温度为20和 $10~^{\circ}\mathsf{C}$，VD分别为2和1 ${\sf g}/{\sf m}^{3}$的情况下，需要排出 $100~{\sf g}/{\sf m}^{2}$ .小时的水分。那么AV差为 $6.99/\mathsf{m}^{3}$，因此需要交换 $100/6.9{=}14.5\mathsf{m}^{3}/\mathsf{m}^{2}$ .小时的空气。通过5%的屏幕缝隙，空气需要以 $14.5/5\%^{*}2/3600=0.16\mathsf{m}/\mathsf{s}$ 的速度流动（注意：空气必须能够通过缝隙进出）。对于每 $^{20~\mathsf{m}^{2}}$ 的窗户，宽度为2.5米，高度为1.2米，在5%的窗户开度下，空气需要以 $14.5/(5^{0}/0^{*}1.2^{*}(2.5+1.2)/20)^{*}2/3600=0.72~\mathsf{m}/\mathsf{s}$ 的速度流动。为了在窗户和屏幕之间实现最佳的阻力分配，在无风的情况下，窗户缝隙的大小应为屏幕缝隙的 $0.72/0.16{=}4.5$ 倍。然而，在任何种植者中，这种情况很少发生。图11显示，屏幕缝隙与窗户缝隙之间的比例几乎总是大于1/4.5。这可能是由于高窗户开度在高风速下造成更多的不稳定（屏幕布的抖动，局部空气流动）。  
 
-![](images/62abf38d3edd9ded6b4eec69542000e4af2ca6281514181d1d1038dd86b04ffb.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/62abf38d3edd9ded6b4eec69542000e4af2ca6281514181d1d1038dd86b04ffb.jpg?raw=true)  
 图11  在照明夜间，屏幕缝隙与窗户缝隙的比例（对数）与风速的关系。红线是回归线，绿色线表示比例 ${\mathcal{I}}/4.5$。  
 
 在无照明的夜间，屏幕缝隙/窗户缝隙的比例甚至更高（见图12）。红线的高度高于图11。在无照明的夜间，存在相互矛盾的利益：种植者希望降低作物温度。另一方面，必须尽量避免过低的蒸发，甚至在作物上形成凝结。为了降低作物温度，拉开窗户缝隙和打开屏幕是有帮助的。为了防止过低的蒸发或凝结，屏幕应尽量保持关闭，以便排出湿气，但尽量避免向寒冷的温室顶面辐射。  
 
-![](images/3f68a046587cab516da5b1b12440032303e0dd4c721b5067d9a8043e581a0e89.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/3f68a046587cab516da5b1b12440032303e0dd4c721b5067d9a8043e581a0e89.jpg?raw=true)  
 图12  在无照明夜间，屏幕缝隙与窗户缝隙的比例（对数）与风速的关系。红线是回归线，绿色线表示比例1/4.5。  
 
 # 3.4.4 水分吸收  
@@ -372,10 +372,10 @@ PAR总量（光活性辐射，单位为 $\scriptstyle{\mathsf{m o l}}/{\mathsf{m
 
 因此，在该期间内刺激蒸发似乎对平均的营养物质吸收并不必要。然而，水分和营养物质的吸收在日间的分布可能导致瞬时短缺。瞬时水分吸收无法从灌溉量与排水量的差异中读取，但VD（蒸汽压差，见图18）确实提供了指示，显示植物与温室空气之间的蒸汽压差较低时，蒸发量较少。这主要发生在无照明的夜间。  
 
-![](images/42e38675f32273c28ddc895bffa883e19aa51d62674400d89e9c2c5ae61b4157.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/42e38675f32273c28ddc895bffa883e19aa51d62674400d89e9c2c5ae61b4157.jpg?raw=true)  
 图13  3天平均作物吸收 $(I/m^{2})$ （注意：公司4的数值在1月1日之前未在图中显示，因为当时的数值异常高）。  
 
-![](images/bcec5c19a5ca6f1ba474377982f4f987e7b8904bf8d53f45c1a968070cc458b7.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/bcec5c19a5ca6f1ba474377982f4f987e7b8904bf8d53f45c1a968070cc458b7.jpg?raw=true)  
 图14  3天平均作物吸收 $(I/m^{2})$ 与作物上的PAR总量 $(m o I/m^{2})$ 的比例。  
 
 # 3.4.5 凝结或滴水的风险  
@@ -390,7 +390,7 @@ PAR总量（光活性辐射，单位为 $\scriptstyle{\mathsf{m o l}}/{\mathsf{m
 
 在图15中，四家公司通过简单的公式计算出何时净辐射到温室顶面为正，颜色表示净辐射的强度。蓝色和黑色表示辐射较少或没有。红色和黄色表示辐射超过 $30\mathsf{W}/\mathsf{m}2$。这表明净辐射确实仅在屏幕打开且灯具关闭时构成风险。在许多情况下，可以看到净辐射在黑暗期开始时较高，但随着温室温度的下降，净辐射也降低。这不适用于公司4，在11月和12月期间，净辐射长时间保持较高水平。  
 
-![](images/e67a2afb756f86951a654655c1f41da3f8618a863494a4e03e7e642fa5551da2.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/e67a2afb756f86951a654655c1f41da3f8618a863494a4e03e7e642fa5551da2.jpg?raw=true)  
 图15  净辐射 $(W/m^{2},$ ) 在四家公司中，当其大于0时的情况。  
 
 # 3.4.5.2 花蕾温度缓慢升高  
@@ -398,7 +398,7 @@ PAR总量（光活性辐射，单位为 $\scriptstyle{\mathsf{m o l}}/{\mathsf{m
 对于较重的花蕾，完全升温可能需要很长时间。作为经验法则，对于大花蕾，可以认为在一小时内，温室温度与花蕾温度之间的温差会减半。因此，如果温室温度突然从 $19^{\circ}\mathrm{C}$ 升高到 $21^{\circ}\mathsf{C}$，则花蕾温度在一小时后仍然只会升高到 $20^{\circ}\mathsf{C}$。当VD低于 $2.1~9/\mathsf{m}^{3}$ 时，温度为 $19^{\circ}\mathsf{C}$ 的花蕾会出现凝结。在一小时后，当VD低于 $1.1~9/\mathsf{m}^{3}$ 时，温度升高到 $20^{\circ}\mathsf{C}$ 的花蕾仍会出现凝结。  
 在图16中，四家公司显示了温度每小时升高超过 $1^{\circ}\mathsf{C}$ 的时刻。颜色表示VD，其中蓝色表示低VD（低于 $0.59/\mathsf{m}^{3}$），黄色表示高VD（高于 $2~9/\mathsf{m}^{3}$）。值得注意的是，温度上升通常发生在灯具开启时（通常在午夜附近），但特别是在公司2中，早晨也可以看到温度相对快速上升。在大多数情况下，温度上升超过 $1^{\circ}\mathsf{C}$ 时，VD安全较高（红色或黄色），但也有一些时刻（绿色或蓝色）存在大花蕾上凝结的风险。  
 
-![](images/856e7bb9141f49b1ad2ce30b5b3a1e11651aab2ffa7acede00349d1debaec74b.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/856e7bb9141f49b1ad2ce30b5b3a1e11651aab2ffa7acede00349d1debaec74b.jpg?raw=true)  
 图16  在四家公司中，VD $(g/m^{3})$ 在温室温度每小时升高超过 $1^{\circ}C$ 的时刻。VD大于 $2.5g/m^{3}$ 的时刻被排除在外。  
 
 # 3.4.5.3 滴水  
@@ -409,28 +409,28 @@ PAR总量（光活性辐射，单位为 $\scriptstyle{\mathsf{m o l}}/{\mathsf{m
 
 特别是在照明关闭时，下部加热通常是唯一的热源（见图6），这也是温度下降的时刻（见图17），VD较低且净辐射较高（见图15）。此外，气孔在黑暗中会关闭。所有这些因素都增加了滴水的风险。可以采取的措施来防止滴水包括（部分）关闭屏幕以限制辐射，并刺激空气流动（通风窗和风扇）以促进蒸发。  
 
-![](images/bf9fcfc238ff53f38996ab6804918ebe5907792d14ddb311e22ca12507209922.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/bf9fcfc238ff53f38996ab6804918ebe5907792d14ddb311e22ca12507209922.jpg?raw=true)  
 图17 四个企业在温室温度每小时下降超过$\scriptscriptstyle1^{\circ}C$时的VD值$(g/m^{3})$。VD值大于$2,5g/m^{3}$的时刻已被排除在外。
 
-3.4.6 花蕾和作物温度
+# 3.4.6 花蕾和作物温度
 
 # 3.4.6.1 企业1、2和3的VPD
 
 在第3.4.5节中，基于温室温度、VD、幕布状态和外部气候（外部温度、风速、辐射和反辐射（pyrgeo））确定了凝结风险。另一种确定该风险的方法是VPD，该方法基于三个企业的作物温度（红外测量）、VD和温室温度（见图18）。这种确定VPD的方法的一个缺点是植物温度测量的可靠性。这些测量给出了一个平面的平均辐射平均值。如果该平面不具有代表性，或者植物温度计偏差一个或多个$^\circ\mathsf C$，则会产生不可信的数据。如果测量准确，则所有黑色标记的时刻都应发生凝结，但事实并非如此。然而，VPD确实提供了何时最有可能发生凝结的指示。正如第3.4.5节所述，无照明的夜间是凝结风险最大的时刻。
 
-![](images/ba2b45d14bdcb336af8222dd72494862f81a7aad91290ff8911df06f0a7edd6d.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/ba2b45d14bdcb336af8222dd72494862f81a7aad91290ff8911df06f0a7edd6d.jpg?raw=true)  
 图18 三个企业的VPD变化。
 
 # 3.4.6.2 企业4的密集测量
 
 如第2.3.2节所述，2023年2月至4月在企业4安装了额外的传感器，以监测花蕾凝结的风险。使用热成像相机比较了花蕾温度和作物温度之间的差异（见图19）。这种变化每天可能不同。一般来说，当进行照明时，辐射会到达作物，叶片和花蕾都会被这种辐射加热。由于叶片比花蕾更容易蒸发，辐射加热会通过更多的蒸发来补偿，因此叶片的温度会比花蕾低。这也可以在图19中看到，在所有照明的夜晚，花蕾温度都高于叶片温度。在3月1日和5日夜间，使用了相对较多的SON-T灯。SON-T灯提供了额外的辐射热，这表现为花蕾温度和叶片温度之间的更大差异。在3月16日使用了风扇。风扇刺激了蒸发，这应该主要导致叶片温度降低，但风扇也增加了对流热传递，从而减小了温室空气与作物（花蕾和叶片）之间的温差。总的来说，风扇对花蕾和叶片温度差异的影响似乎很小。
 
-![](images/85a4159a8c8446ad1d24de2645047e7f04fbaf11aecff976e53759f179cc2ceb.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/85a4159a8c8446ad1d24de2645047e7f04fbaf11aecff976e53759f179cc2ceb.jpg?raw=true)  
 图19 五个不同昼夜周期中花蕾温度与作物温度的差异。
 
 在相同的几天中，还测量了花蕾温度与花蕾高度的露点温度之间的差异（露点赤字）。结果表明，这种差异几乎总是超过$3^{\circ}\mathsf{C}$。因此，花蕾凝结的风险似乎非常小。需要注意的是，除了2月12日外，所有日子都进行了24小时照明，因此花蕾几乎没有冷却。此外，凝结并不是Botrytis的唯一条件。即使在较高的相对湿度下，Botrytis也可以萌发和发展，因此通常需要较大的余量。最低的露点赤字发生在早晨打开幕布时和晚上温室温度下降时。
 
-![](images/5667e9359d9e470587fd4bb9ad7c79abd3979006f1371f56f941d716761771f5.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/5667e9359d9e470587fd4bb9ad7c79abd3979006f1371f56f941d716761771f5.jpg?raw=true)  
 图20 五个不同昼夜周期中花蕾温度减去花蕾高度的露点温度（露点赤字，单位为$^{\circ}C$）。
 
 # 4 气候对花卉质量影响的分析
@@ -447,14 +447,14 @@ PAR总量（光活性辐射，单位为 $\scriptstyle{\mathsf{m o l}}/{\mathsf{m
 
 图21显示了企业1、2和3的瓶插寿命与每周每$\mathsf{m}^{2}$的PAR总和。所有企业在年底前后都出现了低谷，企业2和3的瓶插寿命从第12周开始波动。
 
-![](images/fff652c7e1672c27b15c0af5b4ce915ed69e5665264ac3d23554a898ca536d6a.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/fff652c7e1672c27b15c0af5b4ce915ed69e5665264ac3d23554a898ca536d6a.jpg?raw=true)  
 图21 企业1、2和3每周PAR总和与每收获周瓶插寿命的变化。
 
 # 4.1.2 温室气候的变化
 
 为了确定瓶插寿命是否也可以通过湿度或温室温度的变化来解释，绘制了图22。企业2和4的温度变化与湿度变化之间存在很强的相关性。企业1的相关性几乎不存在$:\mathsf{R}^{2}{=}0.03\$，因为温度保持得非常稳定。瓶插寿命用颜色表示，可以看出图中高湿度变化通常显示为更黄的标记。这并不一定意味着高湿度变化与瓶插寿命之间存在因果关系，因为高湿度变化通常是由于晴天湿度大幅下降引起的。因此，可能不是高湿度变化，而是高PAR总和导致了更长的瓶插寿命。图中圆圈内的彩色区域表示LED在总PAR总和中的比例。黄色标记的圆圈内面积通常较小。也就是说，LED在PAR总和中的比例越小，瓶插寿命越好。但这里也尚未证明因果关系，因为当阳光充足时，LED的比例也较小，因此可能不是LED比例小，而是高PAR总和导致了更长的瓶插寿命。
 
-![](images/1f8fd429365e000fb68af93632b9c5838fd02c9cc1369df850596d13deb4a471.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/1f8fd429365e000fb68af93632b9c5838fd02c9cc1369df850596d13deb4a471.jpg?raw=true)  
 图22 四个企业每两周的湿度变化与温度变化的关系，颜色表示每两周结束时的瓶插寿命，内圈面积表示LED在总PAR总和中的比例。
 
 # 4.1.3 与温室气候的其他关系
@@ -470,12 +470,12 @@ PAR总量（光活性辐射，单位为 $\scriptstyle{\mathsf{m o l}}/{\mathsf{m
 # 4.1.4 VD的变化
 在第52周的瓶插寿命测量中，企业1的瓶插寿命明显长于企业2-4（分别为12.8天 vs 7.5天、8.6天和4.7天；见图1）。观察过去3周的气候数据，VD的变化尤为显著（图23）。企业1的VD值远高于其他企业，并且在夜间保持相对较低的VD值。企业3也在夜间降低了VD值，而企业2和4则在全天保持较为恒定的VD值。VD的动态变化可能对瓶插寿命有积极影响。
 
-![](images/5f063e79d43ea4b6811ec9d1ed49572bf3ff198b5c0fbe5c19876b06fb06f98e.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/5f063e79d43ea4b6811ec9d1ed49572bf3ff198b5c0fbe5c19876b06fb06f98e.jpg?raw=true)  
 图23 四个企业在第50-52周VD值$(g/m^{3})$的日平均变化。
 
 在第4周的瓶插寿命测量中，企业2的瓶插寿命明显更高。企业1-4分别为8.8天、11.1天、6.5天和6.3天（见图1）。与第52周前的VD值（图23）相比，第4周前三周的数据（图24）显示企业2在白天VD值较高，夜间VD值较低。然而，这种策略并不能保证较长的瓶插寿命，如企业3所示：虽然白天VD值大幅上升，但瓶插寿命反而略短。
 
-![](images/8771b41d30ba493623463df99b847b0b8e404a314764f64e5e21d13791384d67.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/8771b41d30ba493623463df99b847b0b8e404a314764f64e5e21d13791384d67.jpg?raw=true)  
 图24 四个企业在第2-4周VD值$(g/m^{3})$的日平均变化。
 
 # 4.2 花蕾颜色变暗的可能原因
@@ -492,7 +492,7 @@ PAR总量（光活性辐射，单位为 $\scriptstyle{\mathsf{m o l}}/{\mathsf{m
 
 在玫瑰中，Terfa等（2013）发现LED下生长的叶片中糖、叶绿素和花青素含量高于SON-T下生长的叶片，他们认为这可能是由于LED光谱中蓝光比例较高（$20\%$ vs $5\%$），因为活性光敏色素（PSS）的相对量在LED和SON-T之间差异不大（分别为$89\%$和$86\%$）{Terfa, 2013 #470}。特别是在玫瑰的花蕾中，{Mor, 1990 #474}发现温度和光谱之间存在相互作用，特别是低温后几天内受到UV-B辐射会导致"花瓣变黑"（花蕾外表面出现黑色阴影）。这种情况主要发生在高辐射和寒冷夜晚的种植区，以及使用双层覆盖（丙烯酸和聚乙烯）的温室中{Marsbergen, $1976~\#475$}。标准玻璃会阻挡UV-B以及热辐射的传输，因此比丙烯酸或聚乙烯导致的花蕾温度更高，但这表明这是一个多因素的综合作用。在较早的文献中，当玫瑰在较低光强下种植时，也提到红色品种的花瓣边缘突然出现黑色、棕色或蓝色。这些主要发生在从温和温度和相对较低光强快速过渡到晴朗温暖天气并伴随凉爽夜晚的情况下。此外，在低钙水平下也观察到更多问题{Marsbergen, 1976 #475}。
 
-![](images/13945ed547f26a75ff0d0b36c50727840254078661b0a25fb50b0d9b5096d702.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/13945ed547f26a75ff0d0b36c50727840254078661b0a25fb50b0d9b5096d702.jpg?raw=true)  
 图25 环境因素和内部因素调节叶片中花青素形成的概念框架（Hoogdalem & Garcia, 2023）。图中仅包含正文中提到的内部因素。更多信息见{LaFountain, 2021 #477}。
 
 # 4.2.2 日平均温度
@@ -503,7 +503,7 @@ PAR总量（光活性辐射，单位为 $\scriptstyle{\mathsf{m o l}}/{\mathsf{m
 
 植物温度可能是比日平均温度更好的指标，但这些相关性也很低。企业1和2之间的差异可能解释为企业1在全年有更稳定的热量输入，主要来自上部的热量输入，以及更强的日平均温度整合。企业3的温度通常相对较低，冬季和春季之间的花蕾颜色差异较小，因此关联不太明显。有趣的是，4月底温度再次相对频繁地低于$15^{\circ}\mathsf{C}$，但这并没有导致花蕾颜色变差。除了温室中较高的PAR通常伴随着较高的温度外，温度、PAR总量和光谱在影响花蕾颜色方面可能存在相互作用。这将在接下来的段落中讨论。
 
-![](images/563f07b0999b21588713d2f43e65a80c9b57985f3e323c8ba8f20acf9c0fe679.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/563f07b0999b21588713d2f43e65a80c9b57985f3e323c8ba8f20acf9c0fe679.jpg?raw=true)  
 图26 Red Naomi!在各企业的日平均温度变化和日平均温度低于$15^{\circ}C$的时间比例（以% x 0.1表示）以及花蕾颜色。
 
 气候因素与下一周花蕾颜色评分的相关性。   
@@ -521,7 +521,7 @@ PAR总量（光活性辐射，单位为 $\scriptstyle{\mathsf{m o l}}/{\mathsf{m
 
 图27显示了PAR总和与日均温之间关系的示意图。可以看出，企业1和2的花蕾颜色评分较低（蓝色标记）主要出现在PAR总和和日均温都较低的情况下。低温和低PAR总和可能在影响花蕾颜色方面相互增强，但由于在本数据集中低PAR总和通常伴随着低日均温和不同的光谱（在低PAR时LED占比较高；图27中较大的圆圈），这一点并不明显。对于企业3，其他因素的影响似乎相对更大。以天为单位而非周为单位的花蕾颜色数据可能会提供更多见解，特别是结合红玫瑰的植物温度数据与PAR总和和光谱变化的关系。
 
-![](images/8c90750d65d8efb2cbbdb6bee0b2463996fa7e7969af2a55f1e4343483e5efae.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/8c90750d65d8efb2cbbdb6bee0b2463996fa7e7969af2a55f1e4343483e5efae.jpg?raw=true)  
 图27 各企业PAR总和与日均温的关系，以周平均值为单位，颜色表示一周后的花蕾颜色评分。标记的直径表示LED在PAR总和中的占比。
 
 # 4.2.4 各热源的热量输入
@@ -532,7 +532,7 @@ PAR总量（光活性辐射，单位为 $\scriptstyle{\mathsf{m o l}}/{\mathsf{m
 
 企业3的影响不太明显，但值得注意的是，从第50周开始，随着SON-T使用频率增加，花蕾颜色有所改善。增加SON-T意味着更高的PAR总和、不同的光谱和来自上方的更高热量输入。从第12周开始，SON-T几乎不再使用，但并未对花蕾颜色产生负面影响。可能当时的太阳辐射已经足够高，可以保持良好的花蕾颜色。在企业3的计算相关性中，LED在PAR总和中的占比仍然最高（表3：-0.30）。植物温度低于15°C的天数通常也是外温较低的天数，对于企业3（-0.33）和企业1（-0.37）都是如此。对于平均植物温度，情况类似，但企业3与PAR总和、总热量输入（包括太阳）和LED占比的相关性更强（企业3分别为0.53；0.40和-0.44，企业1分别为0.24；-0.03和-0.32）。可能还有其他因素影响植物温度。
 
-![](images/824da9ed6e4184343089718b7b57f1bfd7843c95c331a92e510c6bb93a97f395.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/824da9ed6e4184343089718b7b57f1bfd7843c95c331a92e510c6bb93a97f395.jpg?raw=true)  
 
 图28 各企业不同热源的热量输入（单位：W/m²）变化及Red Naomi!花蕾颜色变化。
 
@@ -560,7 +560,7 @@ SON-T与LED的PAR总和比率对于企业1 $(\mathsf{R}^{2}{=}0,6)$ 和企业2 $
 
 将第4.1和4.2节中提到的气候因素与一周后的花蕾高度（mm）评估进行比较，最多只显示出温度的相关性（见图29）。然而，企业2完全没有显示出这种相关性，而企业1的日平均温度变化太小，无法证明其相关性。关于LED在PAR总和中的占比，各企业的结果有所不同：企业3显示出正相关，而企业4显示出轻微的负相关。花蕾高度很可能由比过去一周更长时期内的气候因素决定。此外，由于净辐射的影响，温室空气温度可能与花蕾温度不同。
 
-![](images/07bd3996e1a1b3a3a4c24f4297575716fc0101bcd638ad8445df813b90a85fb3.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/07bd3996e1a1b3a3a4c24f4297575716fc0101bcd638ad8445df813b90a85fb3.jpg?raw=true)  
 图29 四个企业的花蕾高度，分别与前一周的平均温室温度（上）和LED在PAR总和中的占比（下）对比。颜色分别表示PAR总和和温度，直径表示相应周的平均VD和PAR总和。
 
 花蕾形状与不同气候因素的相关性更强（见附录4）。对于大多数企业来说，花蕾形状与PAR总量和SON-T在照明中的占比呈正相关。LED在总PAR总和中的占比与企业1、2和3的花蕾形状评分呈负相关。温度和温度低于$15^{\circ}\mathsf{C}$的时间比例与花蕾形状没有显示出相关性。只有企业2显示出日平均温度与花蕾形状的相关性，但这可能与PAR总和和温度之间的相关性有关。RTR（从$12^{\circ}\mathsf{C}$开始的日平均温度除以PAR总和）与花蕾形状呈负相关。
@@ -676,29 +676,29 @@ Terfa, M.T., Solhaug, K.A., Gislerød, H.R., Olsen, J.E., & Torre, S. (2013). A 
 
 将4家企业的瓶插寿命与LED比例、相对湿度变化、相对湿度和前3周的PAR量进行对比。颜色含义在图表右侧标注，标记直径（⌀）的含义在图表左侧显示。
 
-![](images/6a32dccb80dc2f5e86de15eacf84d108f0b1c76fbfffe0bc28aef4d5fcca12e3.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/6a32dccb80dc2f5e86de15eacf84d108f0b1c76fbfffe0bc28aef4d5fcca12e3.jpg?raw=true)  
 
-![](images/e7fece5c4375a4b5edfcbbcf28b50046a3b9fccdbdc90cfc94a406a27bc573f3.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/e7fece5c4375a4b5edfcbbcf28b50046a3b9fccdbdc90cfc94a406a27bc573f3.jpg?raw=true)  
 
-![](images/4ead5af81e7ae0871efde6c5424cb39ac4786d69dba25119ace6d08db41fd59e.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/4ead5af81e7ae0871efde6c5424cb39ac4786d69dba25119ace6d08db41fd59e.jpg?raw=true)  
 
 # 附录3 与花蕾颜色的相关性
 
 在以下图表中，将花蕾颜色评分分别与RTR（日平均温度-12 $(^{\circ}\mathsf C)/$ PAR总量 $(\mathsf{m o l}/\mathsf{m}^{2});$ 、日平均温度 $(^{\circ}\mathsf C)$ 、PAR总量和评估前一周的LED比例进行对比。颜色含义在图表右侧标注，标记直径（⌀）的含义在图表左侧显示。
 
-![](images/721c5126ac7743c3b6785bdab7e45798898817c7655f6a43f57cdadc4240f85f.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/721c5126ac7743c3b6785bdab7e45798898817c7655f6a43f57cdadc4240f85f.jpg?raw=true)  
 
-![](images/52b44ad7d7950824c0f081c91bd206948f58014c58ca807cbefe971daf1f365e.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/52b44ad7d7950824c0f081c91bd206948f58014c58ca807cbefe971daf1f365e.jpg?raw=true)  
 
 # 附录4 与花蕾形态的相关性
 
 在以下图表中，将花蕾形态评分分别与RTR（日平均温度-12 $(^{\circ}\mathsf C)/$ PAR总量 $(\mathsf{m o l}/\mathsf{m}^{2});$ 、日平均温度 $(^{\circ}\mathsf C)$ 、PAR总量和评估前一周温室气候中的LED比例进行对比。颜色含义在图表右侧标注，标记直径（⌀）的含义在图表左侧显示。
 
-![](images/ba46946fe561e17b544781d844bb09e81bc1ade94d7d5fde85d6d4d71035f96d.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/ba46946fe561e17b544781d844bb09e81bc1ade94d7d5fde85d6d4d71035f96d.jpg?raw=true)  
 
-![](images/93d97762d44b676e3c1b528613d15b24202777b38b7d7a21dc6d9a02be842c79.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/93d97762d44b676e3c1b528613d15b24202777b38b7d7a21dc6d9a02be842c79.jpg?raw=true)  
 
-![](images/a91cbfb09df597cd633b7b33deaede373326f52401d4940cd731a70132c70bc1.jpg)  
+![](https://github.com/duirixuanyan/report-images/blob/main/Labrie%20%E7%AD%89%20-%202025%20-%20Monitoring%20LED%20in%20de%20rozenteelt%20monitoring%20van%20klimaat,%20kwaliteit%20en%20ervaringen%20in%20de%20praktijk/images/a91cbfb09df597cd633b7b33deaede373326f52401d4940cd731a70132c70bc1.jpg?raw=true)  
 
 瓦赫宁根大学与研究中心   
 温室园艺部门   
