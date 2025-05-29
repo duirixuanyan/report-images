@@ -1,0 +1,217 @@
+G:\GitHub\report-images\report-images\.git
+G:\GitHub\report-images\report-images\.git\hooks
+G:\GitHub\report-images\report-images\.git\info
+G:\GitHub\report-images\report-images\.git\logs
+G:\GitHub\report-images\report-images\.git\logs\refs
+G:\GitHub\report-images\report-images\.git\logs\refs\heads
+G:\GitHub\report-images\report-images\.git\logs\refs\remotes
+G:\GitHub\report-images\report-images\.git\logs\refs\remotes\origin
+G:\GitHub\report-images\report-images\.git\objects
+G:\GitHub\report-images\report-images\.git\objects\info
+G:\GitHub\report-images\report-images\.git\objects\pack
+G:\GitHub\report-images\report-images\.git\refs
+G:\GitHub\report-images\report-images\.git\refs\heads
+G:\GitHub\report-images\report-images\.git\refs\remotes
+G:\GitHub\report-images\report-images\.git\refs\remotes\origin
+G:\GitHub\report-images\report-images\.git\refs\tags
+G:\GitHub\report-images\report-images\1-s2.0-S0021863400906760\images
+G:\GitHub\report-images\report-images\1-s2.0-S0023643824011009\images
+G:\GitHub\report-images\report-images\1-s2.0-S2772427125000671\images
+G:\GitHub\report-images\report-images\1-s2.0-S2772427125000671\images2
+G:\GitHub\report-images\report-images\1.WUR GTB Gewasgezondheid Bodem en Water 等 - 2022 - Een inventarisatie van groeimedia anders\images
+G:\GitHub\report-images\report-images\10.WUR GTB Tuinbouw Technologie 等 - 2022 - Meten op een uniforme manier  Spreken we dezelfde\images
+G:\GitHub\report-images\report-images\11.581162\images
+G:\GitHub\report-images\report-images\12.585336\images
+G:\GitHub\report-images\report-images\13.Onderz. Form. I. 等 - 2022 - Can remote electronic monitoring be used to monitor catches of skates and rays\images
+G:\GitHub\report-images\report-images\14.PPOPRI AGRO Field Technology Innovations 等 - 2022 - Literature study on robotic tree harvesting and pruning  The next fruit 4.0\images
+G:\GitHub\report-images\report-images\15.Swinkels 等 - 2022 - Energieproducerende schermen\images
+G:\GitHub\report-images\report-images\150165\images
+G:\GitHub\report-images\report-images\16.WUR GTB Gewasgezondheid Bodem en Water 等 - 2022 - Energie- en ziektebeheersing  Beheersing van het (micro)klimaat\images
+G:\GitHub\report-images\report-images\17.585337\images
+G:\GitHub\report-images\report-images\18.Crop Physiology 等 - 2022 - Invloed CO2-dosering op groei bij tomaat  tomaten\images
+G:\GitHub\report-images\report-images\19.Van Os 等 - 2022 - Freesia Richtinggevende toekomstbeelden  hoe zou de freesiateelt er in 2030-2050 uit moeten zien o\images
+G:\GitHub\report-images\report-images\19737\images
+G:\GitHub\report-images\report-images\2.WUR GTB Teelt & Gewasfysiologie 等 - 2022 - A roadmap for the introduction of vital fluid natural nitrogen in the spanish (organic) horticulture\images
+G:\GitHub\report-images\report-images\20.Victoria et al_2022_Alstroemeria\images
+G:\GitHub\report-images\report-images\2013_TR\images
+G:\GitHub\report-images\report-images\2013__G061052-1\images
+G:\GitHub\report-images\report-images\202121\images
+G:\GitHub\report-images\report-images\2024 - Research on creating the indoor thermal\images
+G:\GitHub\report-images\report-images\2025.05.10 论文 林涛
+G:\GitHub\report-images\report-images\2025.05.10 论文 林涛\images
+G:\GitHub\report-images\report-images\2025.05.20 eng practice3
+G:\GitHub\report-images\report-images\21.Hemming et al_2021_Wet Screens\images
+G:\GitHub\report-images\report-images\216772\images
+G:\GitHub\report-images\report-images\22.2020 - Energie-innovaties van de DaglichtKas  monitoring\images
+G:\GitHub\report-images\report-images\23.2020 - General Cultivation Manual Jordan\images
+G:\GitHub\report-images\report-images\24.2020 - GEOFOOD - Energy model of geothermalgreenhouse aqu\images
+G:\GitHub\report-images\report-images\25.2020 - Effect of high scattering lamellae on growthand ph\images
+G:\GitHub\report-images\report-images\26.2020 - GEOFOOD - Energy model of geothermalgreenhouse aqu\images
+G:\GitHub\report-images\report-images\27.2020 - Pieken zonder pieken  Paprikateelt in de 2SaveEne\images
+G:\GitHub\report-images\report-images\28.2020 - Semi-transparante PV voor kassen  Evaluatie van n\images
+G:\GitHub\report-images\report-images\28_165\images
+G:\GitHub\report-images\report-images\29.2020 - Vertical lamellae highly diffusive for lighteffec\images
+G:\GitHub\report-images\report-images\3.WUR GTB Tuinbouw Technologie 等 - 2022 - Carbon dioxide enrichment in a decarbonised future\images
+G:\GitHub\report-images\report-images\30.2021 - Levensduur van kasdekmaterialen  van veroudering\images
+G:\GitHub\report-images\report-images\31.Buwalda 等 - Energiezuinige Teeltplanning voor Potplanten\images
+G:\GitHub\report-images\report-images\32.Buwalda 等 - Energiezuinige Teeltplanning voor Potplanten\images
+G:\GitHub\report-images\report-images\33.Buwalda 等 - Energiezuinige Teeltplanning voor Potplanten\images
+G:\GitHub\report-images\report-images\34.Horticulture and Product Physiology Group 等 - 2017 - Plantmonitoring op basis van fotosynthese sensoren  Praktijktesten\images
+G:\GitHub\report-images\report-images\35.de Gelder 和 Warmenhoven - Het Nieuwe Telen Tomaat 2010\images
+G:\GitHub\report-images\report-images\36.Dueck et al_2012_Growth of tomatoes under Hybrid LED and HPS lighting\images
+G:\GitHub\report-images\report-images\36156046X\images
+G:\GitHub\report-images\report-images\37.Verkerke 等 - Ontwerp van twee energiezuinige kasconcepten\images
+G:\GitHub\report-images\report-images\38.WUR GTB Tuinbouw Technologie 等 - 2017 - De Uitstralingsmonitor\images
+G:\GitHub\report-images\report-images\39.Elings 和 Meinen - Gewasmanagement in semi-gesloten kassen\images
+G:\GitHub\report-images\report-images\4.WUR GTB Tuinbouw Technologie 等 - 2022 - GEOFOOD - validation of an energy model for recirculating aquaculture systems\images
+G:\GitHub\report-images\report-images\40.22639\images
+G:\GitHub\report-images\report-images\41_3_135_ocr\images
+G:\GitHub\report-images\report-images\42.Raaphorst 等 - Biologische en overige grondgebonden teelten in ee\images
+G:\GitHub\report-images\report-images\43.Stanghellini 等 - Condensatie tegen het kasdek\images
+G:\GitHub\report-images\report-images\44.Tuinbouw 和 Pasteurlaan - Dit project is gefinancierd door\images
+G:\GitHub\report-images\report-images\45.94927\images
+G:\GitHub\report-images\report-images\46.120165\images
+G:\GitHub\report-images\report-images\47.Dueck et al_2010_Lichtbenutting van tomaat onder LED en SON-T belichting\images
+G:\GitHub\report-images\report-images\48.Raaphorst 等 - Evaluatie systeemontwerpen voor ontvochtigen\images
+G:\GitHub\report-images\report-images\49.van Os 等 - Mobysant Energie-aspecten\images
+G:\GitHub\report-images\report-images\490471374
+G:\GitHub\report-images\report-images\490471374\images
+G:\GitHub\report-images\report-images\5.WUR GTB Gewasgezondheid Bodem en Water 等 - 2022 - Inventarisatie van een mogelijke nieuwebron voor koolzuurgas (CO2)\images
+G:\GitHub\report-images\report-images\50.Breugel et al_2021_With low emission to high transmission\images
+G:\GitHub\report-images\report-images\509301665
+G:\GitHub\report-images\report-images\509301665\images
+G:\GitHub\report-images\report-images\509467083\images
+G:\GitHub\report-images\report-images\51.de Zwart - Chinese – Dutch cooperation on the Chinese Solar G\images
+G:\GitHub\report-images\report-images\52.de Zwart 和 García - Energie-extensieve teelten klimaatneutraal met hoo\images
+G:\GitHub\report-images\report-images\521915155\images
+G:\GitHub\report-images\report-images\53.de Zwart 和 Ruijs - Biomassa voor de energievoorziening van tuinbouwcl\images
+G:\GitHub\report-images\report-images\54.Raaphorst et al_2018_De perfecte chrysant teelt 1-4\images
+G:\GitHub\report-images\report-images\55.Vanthoor_Zwart_2017_Verwarming van de glastuinbouw in een post-fossiele energie infrastructuur\images
+G:\GitHub\report-images\report-images\553815814\images
+G:\GitHub\report-images\report-images\56.Victoria et al_2017_Systeemstap naar minimaal energieverbruik Alstroemeria\images
+G:\GitHub\report-images\report-images\57.WUR GTB Tuinbouw Technologie 等 - 2016 - Vochtbeheersing in kassen en terugwinning van late
+G:\GitHub\report-images\report-images\57.WUR GTB Tuinbouw Technologie 等 - 2016 - Vochtbeheersing in kassen en terugwinning van late\images
+G:\GitHub\report-images\report-images\58.WUR GTB Tuinbouw Technologie 等 - 2017 - Energy saving screen materials  measurement metho
+G:\GitHub\report-images\report-images\58.WUR GTB Tuinbouw Technologie 等 - 2017 - Energy saving screen materials  measurement metho\images
+G:\GitHub\report-images\report-images\588733\images
+G:\GitHub\report-images\report-images\59.WUR GTB Tuinbouw Technologie 等 - 2022 - Gewasverdamping en koptemperatuur
+G:\GitHub\report-images\report-images\59.WUR GTB Tuinbouw Technologie 等 - 2022 - Gewasverdamping en koptemperatuur\images
+G:\GitHub\report-images\report-images\6.WUR GTB Tuinbouw Technologie 等 - 2022 - Methodiekontwikkeling schadegrensbepaling reinigings- en ontsmettingsmiddelen\images
+G:\GitHub\report-images\report-images\60.Zwart et al_2017_Paprikateelt in de hooggeïsoleerde VenLow Energy kas
+G:\GitHub\report-images\report-images\60.Zwart et al_2017_Paprikateelt in de hooggeïsoleerde VenLow Energy kas\images
+G:\GitHub\report-images\report-images\61.Zwart et al_2017_Verdamping bij de kop
+G:\GitHub\report-images\report-images\61.Zwart et al_2017_Verdamping bij de kop\images
+G:\GitHub\report-images\report-images\62.Zwart et al_2019_Tuinbouw zonder fossiele energie\images
+G:\GitHub\report-images\report-images\63.Zwart_2018_Tomaten telen in een Chinese muurkas, in Nederland en in China
+G:\GitHub\report-images\report-images\63.Zwart_2018_Tomaten telen in een Chinese muurkas, in Nederland en in China\images
+G:\GitHub\report-images\report-images\64.Zwart_Raaphorst_2017_Intensief schermen & energiezuinig ontvochtigen met Het Nieuwe Telen in
+G:\GitHub\report-images\report-images\64.Zwart_Raaphorst_2017_Intensief schermen & energiezuinig ontvochtigen met Het Nieuwe Telen in\images
+G:\GitHub\report-images\report-images\65.Zwart_Raaphorst_2017_Monitoring Energiebesparing door Het Nieuwe Telen en Energie-innovaties
+G:\GitHub\report-images\report-images\65.Zwart_Raaphorst_2017_Monitoring Energiebesparing door Het Nieuwe Telen en Energie-innovaties\images
+G:\GitHub\report-images\report-images\650540\images
+G:\GitHub\report-images\report-images\66811147X
+G:\GitHub\report-images\report-images\66811147X\images
+G:\GitHub\report-images\report-images\7.WUR GTB Teelt & Gewasfysiologie 等 - 2022 - Efficiënte jaarrondteelt van bramen met LED\images
+G:\GitHub\report-images\report-images\8.WUR GTB Tuinbouw Technologie 等 - 2022 - Komkommer in de winterlichtkas  Teeltresultaten 2017-2019\images
+G:\GitHub\report-images\report-images\838436420
+G:\GitHub\report-images\report-images\838436420\images
+G:\GitHub\report-images\report-images\862729998\images
+G:\GitHub\report-images\report-images\869643029\images
+G:\GitHub\report-images\report-images\9.WUR GTB Tuinbouw Technologie 等 - 2022 - Met LED naar een perfecte chrysant teelt 16-19  Energiezuinige demonstratieteelten bij delphy impro\images
+G:\GitHub\report-images\report-images\ActaHort-humidity\images
+G:\GitHub\report-images\report-images\Al-Mahdouri 等 - 2013\images
+G:\GitHub\report-images\report-images\Al-Mahdouri 等 - 2014\images
+G:\GitHub\report-images\report-images\Animal Farming Systems 等 - 2023 - Financiële haalbaarheid tuinbouwreststromen als voer voor black soldier fly larven\images
+G:\GitHub\report-images\report-images\Bac-Molenaar 等 - 2024 - De klimaat- en risicobestendige kas  De “ETF-onE”\images
+G:\GitHub\report-images\report-images\Bakker_1991_Analysis of humidity effects on growth and production of glasshouse fruit\images
+G:\GitHub\report-images\report-images\Balendonck 等 - 2024 - Ontwikkeling en evaluatie van een handzame nitraatmeter voor drainage- en oppervlaktewater in de gla\images
+G:\GitHub\report-images\report-images\Baneshi et al_2020\images
+G:\GitHub\report-images\report-images\Biosystems_Engineering_Report_BLab-20241\images
+G:\GitHub\report-images\report-images\blabtools20151-11-luftfeuchte\images
+G:\GitHub\report-images\report-images\Boedijn 等 - 2024 - Meloen in de BEST-kas\images
+G:\GitHub\report-images\report-images\Campen_2009_Dehumidification of greenhouses\images
+G:\GitHub\report-images\report-images\Campen和Stanghellini - 2024 - Morocco-netherlands centre of excellence in horticulture of agadir final report project MAS1MR01\images
+G:\GitHub\report-images\report-images\Carpineti 等 - 2024 - Guidelines for cultivation in a vertical farm\images
+G:\GitHub\report-images\report-images\Chen 等 - 2016 - An automated\images
+G:\GitHub\report-images\report-images\Coussement_A virtual tomato plant for optimising assimilation light in greenhouse cultivation\images
+G:\GitHub\report-images\report-images\De Gelder 等 - 2023 - Perfecte chrysant met verrood koeler telen  Teelt 24-28 energiezuinige demonstratieteelten chrysant\images
+G:\GitHub\report-images\report-images\De Zwart 等 - 2023 - Crop transpiration and top-leaf temperature\images
+G:\GitHub\report-images\report-images\Detection of water content in tomato stems\images
+G:\GitHub\report-images\report-images\Dissertation Langner, Frederik\images
+G:\GitHub\report-images\report-images\ecp19157054\images
+G:\GitHub\report-images\report-images\Effect of fruit ripeness on\images
+G:\GitHub\report-images\report-images\Electrochemical impedance spectroscopy\images
+G:\GitHub\report-images\report-images\green_light_a_neglected_colour_675953\images
+G:\GitHub\report-images\report-images\Henke - 2017 - Methodical and technical aspects of functional-structural plant modelling\images
+G:\GitHub\report-images\report-images\Heuvelink - 1996\images
+G:\GitHub\report-images\report-images\horticulturae-10-00270-v2\images
+G:\GitHub\report-images\report-images\J Food Process Engineering - 2025 - Zhang\images
+G:\GitHub\report-images\report-images\j.jqsrt.2019.04.009\images
+G:\GitHub\report-images\report-images\j.renene.2019.12.130\images
+G:\GitHub\report-images\report-images\Jin_2022_Improving light use efficiency of lettuce in vertical farms by far-red\images
+G:\GitHub\report-images\report-images\Kamp 等 - 2024 - AGROS disease control seed potatoes  report 2020-2023\images
+G:\GitHub\report-images\report-images\Katzin 等 - 2021 - Energy savings in greenhouses by transition from high-pressure sodium to LED lighting\images
+G:\GitHub\report-images\report-images\Katzinetal.-2025-Apleaforopensourcegreenhouseclimatemodelling\images
+G:\GitHub\report-images\report-images\Katzinetal.-2025-Radiometricpropertiesofscreensandenergysavingingreenhouses\images
+G:\GitHub\report-images\report-images\Katzinetal.-2025-Selectivereflectionofnearinfraredradiationinshadingscreensforcooledgreenhouses\images
+G:\GitHub\report-images\report-images\Koning_1994\images
+G:\GitHub\report-images\report-images\Körner_Holst_2017_An open-source greenhouse modelling platform\images
+G:\GitHub\report-images\report-images\Labrie 等 - 2025 - Monitoring LED in de rozenteelt monitoring van klimaat, kwaliteit en ervaringen in de praktijk\images
+G:\GitHub\report-images\report-images\Liu 等 - 2023 - Photosynthesis Characteristics\images
+G:\GitHub\report-images\report-images\Marcelis_1994\images
+G:\GitHub\report-images\report-images\Methoden-zur-energetischen-Bewertung-von-geschlossenen-Gewaechshausanlagen-unter-Beruecksichtigung-von-Enthalpiedifferenzen\images
+G:\GitHub\report-images\report-images\Mishra 等 - 2024 - Een voorraadje voor de winter  Mogelijkheden voor\images
+G:\GitHub\report-images\report-images\Mishra 等 - 2024 - End report seed money project 2023  sustainable cultivation of ginger and turmeric in greenhouse i\images
+G:\GitHub\report-images\report-images\modelling_and_remote_sensing_183133\images
+G:\GitHub\report-images\report-images\Mohammadkhani 等 - 2025 - Lichtwinst met hydrofiele glas coatings\images
+G:\GitHub\report-images\report-images\Os et al_2023_Waterefficiënte teelt op substraat\images
+G:\GitHub\report-images\report-images\Os 等 - 2024 - Kringloopbestendig telen in grond en in zandbedden LWV19101\images
+G:\GitHub\report-images\report-images\pce15340-sup-0001-supplemental_data_folder_picture
+G:\GitHub\report-images\report-images\Reyes-Rosas et al_2017_Development of a single energy balance model for prediction of temperatures\images
+G:\GitHub\report-images\report-images\Ronoh和Rath - 2014 - Investigations on the external thermal radiation exchanges between glass-covered greenhouse surfaces\images
+G:\GitHub\report-images\report-images\Rootzone Dynamics 等 - 2023 - De virtuele lysimeter, een beslissing ondersteunend systeem voor de watergift bij grondgebonden kast\images
+G:\GitHub\report-images\report-images\RUG01-002166683_2014_0001_AC\images
+G:\GitHub\report-images\report-images\RUG01-002217117_2015_0001_AC\images
+G:\GitHub\report-images\report-images\RUG01-002217119_2015_0001_AC\images
+G:\GitHub\report-images\report-images\RUG01-002217226_2015_0001_AC\images
+G:\GitHub\report-images\report-images\Serooskerken 等 - 2024 - Fosforterugwinning uit reststromen voor de glastuinbouw\images
+G:\GitHub\report-images\report-images\Serooskerken 等 - 2024 - Phosphorus recovery from side-streams for horticulture\images
+G:\GitHub\report-images\report-images\Serooskerken和Lanting - 2024 - Stikstof whitepaper circulaire meststoffen voor de glastuinbouw\images
+G:\GitHub\report-images\report-images\Shen-bo 等 - 2023 - Construction of\images
+G:\GitHub\report-images\report-images\Study of tomato growth weight\images
+G:\GitHub\report-images\report-images\Swinkels 等 - 2024 - Nieuw glas op de kas\images
+G:\GitHub\report-images\report-images\Tiede-Arlt和Nordrhein-Westfalen - Abschlussbericht des modell- und sondervorhabens nursery stock growing support system\images
+G:\GitHub\report-images\report-images\Trépanier 等 - 2025 - Best combinations of energy-efficiency measures in greenhouses considering energy consumption, yield\images
+G:\GitHub\report-images\report-images\Van Tuyll 等 - 2024 - Sustainable phosphorus for soilless greenhouse horticulture  An exploration of potential routes\images
+G:\GitHub\report-images\report-images\Van Vilsteren 等 - 2023 - TomBollenrevolutie 4.0  Eindrapportage werkpakket veld\images
+G:\GitHub\report-images\report-images\Vermeiren et al_2020_Quantifying the importance of a realistic tomato (Solanum lycopersicum) leaflet\images
+G:\GitHub\report-images\report-images\vg\images
+G:\GitHub\report-images\report-images\Victoria 等 - 2024 - Demokas 2030; emissiearm telen teeltresultaten 2019-2022; potanthurium\images
+G:\GitHub\report-images\report-images\Victoria 等 - 2024 - Snijanthurium onbelicht naar klimaatneutraal een 2-jarig demonstratieteelt in de 2SaveEnergy kas\images
+G:\GitHub\report-images\report-images\Vilsteren 等 - 2024 - Energiemonitor van de nederlandse bloembollensector over het jaar 2021\images
+G:\GitHub\report-images\report-images\Voogt 等 - 2023 - Validatie van de virtuele lysimeter  De virtuele lysimeter getest en gevalideerd op praktijkbedrijv\images
+G:\GitHub\report-images\report-images\Wageningen UR Library 等 - 2023 - Aardbei fossielvrij\images
+G:\GitHub\report-images\report-images\WUR GTB Gewasgezondheid Bodem en Water 等 - 2023 - Design of a greenhouse for peri-urban horticulture in algeria\images
+G:\GitHub\report-images\report-images\Zee 等 - 2024 - Biodegradability of sensors evaluation of the sensors developed in the PLANtAR project\images
+G:\GitHub\report-images\report-images\书 Cucurbits (Crop Production Science in Horticulture) (2020, CABI)\images
+G:\GitHub\report-images\report-images\书 Plant factory\images
+G:\GitHub\report-images\report-images\书 Tomatoes (2018, CABI)\images
+G:\GitHub\report-images\report-images\书 模拟潜在的作物生长过程：带有练习的教科书\images
+G:\GitHub\report-images\report-images\博士论文 PhD_BartVandeWal\images
+G:\GitHub\report-images\report-images\博士论文 PhD_Jochen_Hanssens_final\images
+G:\GitHub\report-images\report-images\图书章节 638757\images
+G:\GitHub\report-images\report-images\图书章节 638761\images
+G:\GitHub\report-images\report-images\报告242427\images
+G:\GitHub\report-images\report-images\报告569147
+G:\GitHub\report-images\report-images\报告569147\images
+G:\GitHub\report-images\report-images\报告670275\images
+G:\GitHub\report-images\report-images\活动 690775\images
+G:\GitHub\report-images\report-images\活动 690777\images
+G:\GitHub\report-images\report-images\活动 690778\images
+G:\GitHub\report-images\report-images\活动 can_autonomous_greenhouses_enhance_crop_productio-wageningen_university_and_research_683670\images
+G:\GitHub\report-images\report-images\论文 Hemmerling et al_2013_Extension of the GroIMP modelling platform to allow easy specification of\images
+G:\GitHub\report-images\report-images\论文 Plas 等 - 2025 - A detailed plant model in CFD that resolves the microclimate around individual leaves\images
+G:\GitHub\report-images\report-images\论文Adding
+G:\GitHub\report-images\report-images\论文Adding\英文
+G:\GitHub\report-images\report-images\论文current_status_and_future_challenges_in_implement-wageningen_university_and_research_559689\images
+G:\GitHub\report-images\report-images\论文Kim和You - 2025 - Energy-efficient greenhouse climate control using gaussian process-based stochastic model predictive\images
